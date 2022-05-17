@@ -74,17 +74,16 @@ img{
 }
 
 .remove1{
-    border: 1px solid white;
-    background-color: white;
-    color: darkgray;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    color: black;
     font-size: 20px;
     margin-top: 20px;
-    width: 40%;
+    width: 20%;
     left: 50%;
     transform: translateX(-50%);
     position: absolute;
     padding: 10px;
-    text-shadow: 0 0 5px darkgray;
     border-radius: 10px;
     
 }
@@ -135,4 +134,8 @@ img{
 h3{
     font-size: larger;
 
+}
+.secondweather{
+    height: 30px;
+    width: 25%;
 }
